@@ -1,0 +1,8 @@
+# clasp credentials and project binding (contain your script ID / tokens)
+.clasp.json
+.clasprc.json
+# local exports of your own data
+*.csv
+*.xlsx
+.DS_Store
+node_modules/
